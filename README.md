@@ -37,7 +37,7 @@ Segue aqui partes do que ja aprendi:
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Status de Commits
+### _**Status de Commits**_
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruunovsanttos&theme=graywhite_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruunovsanttos&layout=compact)
