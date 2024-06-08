@@ -40,7 +40,7 @@ Segue aqui partes do que ja aprendi:
 ### Status de Commits
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=graywhite_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruunovsanttos&layout=compact)
 
 
 
