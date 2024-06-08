@@ -1,10 +1,10 @@
 # Seja bem vindo(a) ao meu GitHub
 
-Olá pessoa, espero que lhe encontre bem.
+Olá pessoa :wave:&#127998;, espero que lhe encontre bem.
 Aqui você vai encontrar um pouco mais sobre minha grande jornada na programação
 
 ### Quem eu sou...
-Se chegou aqui saja muito bem vindo , Me chamo Bruno Santos, tenho 31 anos e sou estudante em programação
+Se chegou aqui saja muito bem vindo, Me chamo Bruno Santos, tenho 31 anos e sou estudante em programação
 Estou em processo de formação na faculdade *__Fiap__* em *__Análise e Desenvolvimento de Sistemas__*, desde o começo de 2024 e com previsão de termino em 12/2025
 Decidi virar um programador pois acrédito que no mundo em que vivemos a programação esta conjunta com quase tudo.
 Sendo assim a programação entrou na minha vida como uma escolha para evolução pessoal e para que eu pudesse de alguma forma moldar um futuro melhor.
@@ -37,9 +37,17 @@ Segue aqui partes do que ja aprendi:
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+## Guia de Repositórios
+
+|                  |                   |
+
+
+
 ### Status de Commits
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=graywhite_icons=true)
+
+
 
 
 
