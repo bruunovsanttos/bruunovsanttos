@@ -4,7 +4,7 @@ Olá pessoa :wave:&#127998;, espero que lhe encontre bem.
 Aqui você vai encontrar um pouco mais sobre minha grande jornada na programação
 
 ### Quem eu sou...
-Se chegou aqui saja muito bem vindo, Me chamo Bruno Santos, tenho 31 anos e sou estudante em programação
+Se chegou aqui seja muito bem vindo:raising_hand_man:&#127998;, Me chamo Bruno Santos:adult::person_curly_hair:&#127998;, tenho 31 anos e sou estudante em programação
 Estou em processo de formação na faculdade *__Fiap__* em *__Análise e Desenvolvimento de Sistemas__*, desde o começo de 2024 e com previsão de termino em 12/2025
 Decidi virar um programador pois acrédito que no mundo em que vivemos a programação esta conjunta com quase tudo.
 Sendo assim a programação entrou na minha vida como uma escolha para evolução pessoal e para que eu pudesse de alguma forma moldar um futuro melhor.
