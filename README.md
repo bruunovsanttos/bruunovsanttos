@@ -1,3 +1,4 @@
+![capa](https://www.pexels.com/pt-br/foto/oculos-black-farmed-em-frente-ao-computador-laptop-577585/)
 # Seja bem vindo(a) ao meu GitHub
 
 Olá pessoa :wave:&#127998;, espero que lhe encontre bem.
