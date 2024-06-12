@@ -1,4 +1,4 @@
-[capa](https://www.pexels.com/pt-br/foto/oculos-black-farmed-em-frente-ao-computador-laptop-577585)
+[capa](https://hermes.dio.me/articles/cover/0a3097b1-6eb9-44df-b400-07c3a8e6b54f.png)
 # Seja bem vindo(a) ao meu GitHub
 
 Olá pessoa :wave:&#127998;, espero que lhe encontre bem.
