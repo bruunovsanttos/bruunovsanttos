@@ -1,4 +1,3 @@
-[capa](0a3097b1-6eb9-44df-b400-07c3a8e6b54f.webp)
 # Seja bem vindo(a) ao meu GitHub
 
 Olá pessoa :wave:&#127998;, espero que lhe encontre bem.
