@@ -21,7 +21,7 @@ Sendo assim a programação entrou na minha vida como uma escolha para evoluçã
 Nessa grande jornada em programação tenho aprendido algumas coisas muito interresantes.
 Em tudo que tenho aprendido esta aqui divídido em alguns trepositorios chave.
 
-Mas em grande maioria, tenho feito alguns algoritmos em Python e JAva Scritp
+Mas em grande maioria, tenho feito alguns algoritmos em Python e Java Scritp
 Segue aqui partes do que ja aprendi:
 
 ### _**Linguagens**_
