@@ -1,4 +1,4 @@
-![homem-de-desenho-animado-com-oculos_23-2151136890](https://github.com/bruunovsanttos/Projetos/assets/163612337/90bcbaa6-efe9-4989-be66-f9b519839c0a)
+![um-homem-com-capuz-na-frente-de-duas-telas-de-computador_972405-435copia](https://github.com/bruunovsanttos/Projetos/assets/163612337/e150027e-8962-441f-973c-1118f78ea893)
 
 # Seja bem vindo(a) ao meu GitHub
 
