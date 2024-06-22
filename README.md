@@ -1,4 +1,4 @@
-![programado de costas](https://github.com/bruunovsanttos/Projetos/assets/163612337/2358749a-d9d6-4000-aac9-5ccd99084c09)
+![um-homem-com-capuz-na-frente-de-duas-telas-de-computador_972405-435copia](https://github.com/bruunovsanttos/Projetos/assets/163612337/3e8a36a7-0030-43b3-9610-8f6a8bb64d64)
 
 # Seja bem vindo(a) ao meu GitHub
 
