@@ -1,4 +1,4 @@
-![um-homem-com-capuz-na-frente-de-duas-telas-de-computador_972405-435copia](https://github.com/bruunovsanttos/Projetos/assets/163612337/e150027e-8962-441f-973c-1118f78ea893)
+![um-homem-com-capuz-na-frente-de-duas-telas-de-computador_972405-435copia](https://github.com/user-attachments/assets/f5db77a7-af6c-4ae3-93f5-8983fa3b5adb)
 
 # Seja bem vindo(a) ao meu GitHub
 
