@@ -6,7 +6,7 @@ Olá pessoa :wave:&#127998;, espero que lhe encontre bem.
 Aqui você vai encontrar um pouco mais sobre minha grande jornada na programação
 
 ### Quem eu sou...
-Se chegou aqui seja muito bem vindo, Me chamo Bruno Santos &#129489;&#127998;, tenho 31 anos e sou programador back-end 
+Se chegou aqui seja muito bem vindo, Me chamo Bruno Santos &#129489;&#127998;, tenho 32 anos e sou programador back-end 
 
 Trbalhando maif quinze anos na área da mecânica e metalurgica, optei por fazer uma nova escolha na minha vida, a tecnologia.
 Decidi virar um programador pois acrédito que no mundo em que vivemos a programação esta conjunta com quase tudo.
