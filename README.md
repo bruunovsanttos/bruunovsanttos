@@ -24,7 +24,7 @@ Sendo assim a programação entrou na minha vida como uma escolha para evoluçã
 Nessa grande jornada em programação tenho aprendido algumas coisas muito interresantes.
 Em tudo que tenho aprendido esta aqui divídido em alguns repositorios chave. 
 
-[Projetos](https://github.com/bruunovsanttos/Portfolio-de-Projetos) é o repositório mais importante que é ode tenho colocado meus scripts e real aprendizado colocando em prática os ensinamentos das ferramentas listadas abaixo:
+[Projetos](https://github.com/bruunovsanttos/Portfolio-de-Projetos) é o repositório mais importante que é onde tenho colocado meus scripts e real aprendizado executando em prática os ensinamentos das ferramentas listadas abaixo:
 
 ### _**Linguagens**_
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
