@@ -6,14 +6,24 @@ Olá pessoa :wave:&#127998;, espero que lhe encontre bem.
 Aqui você vai encontrar um pouco mais sobre minha grande jornada na programação
 
 ### Quem eu sou...
-Se chegou aqui seja muito bem vindo, Me chamo Bruno Santos &#129489;&#127998;, tenho 32 anos e sou programador back-end 
+Se chegou aqui seja muito bem vindo, Me chamo Bruno Santos &#129489;&#127998;, tenho 32 anos, curso Análise e Desenvolvimento de Sistemas na _*Universidade Anhembi Morumbi*_, com previsão de término em _junho de 2027_, e sou programador *Back-end*
 
 Trabalhando há mais de quinze anos na área da mecânica e metalurgica, optei por fazer uma nova escolha na minha vida, a tecnologia.  
 
 Decidi virar um programador pois acrédito que no mundo em que vivemos a programação esta conjunta com quase tudo.
-Sendo assim a programação entrou na minha vida como uma escolha para evolução pessoal e para que eu pudesse de alguma forma moldar um futuro melhor.
+Sendo assim a programação entrou na minha vida como uma escolha para evolução pessoal e para que eu pudesse de alguma forma moldar um futuro melhor.  
 
-## **Links Úteis**
+Tenho também alguns projetos ja feitos. [Clique aqui e veja meus projetos](https://github.com/bruunovsanttos/Portifolio) 📋📚✅
+
+## Indice
+* [Links para contato](https://github.com/bruunovsanttos#links-%C3%BAteis)
+* [Jornada](https://github.com/bruunovsanttos#jornada)
+* [Linguagens](https://github.com/bruunovsanttos#linguagens)
+* [Bancos de Dados](https://github.com/bruunovsanttos#banco-de-dados)
+* [Feramentas](https://github.com/bruunovsanttos#ferramentas)
+* [Status Do Github](https://github.com/bruunovsanttos#status-de-commits)
+
+## **Links para Contato**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunovieirasantos/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@brunovsanttos/)
