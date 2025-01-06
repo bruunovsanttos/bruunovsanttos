@@ -16,7 +16,7 @@ Sendo assim a programação entrou na minha vida como uma escolha para evoluçã
 Tenho também alguns projetos ja feitos. [Clique aqui e veja meus projetos](https://github.com/bruunovsanttos/Portifolio) 📋📚✅
 
 ## Indice
-* [Links para contato](https://github.com/bruunovsanttos#links-%C3%BAteis)
+* [Links para contato](https://github.com/bruunovsanttos#links-para-contato)
 * [Jornada](https://github.com/bruunovsanttos#jornada)
 * [Linguagens](https://github.com/bruunovsanttos#linguagens)
 * [Bancos de Dados](https://github.com/bruunovsanttos#banco-de-dados)
